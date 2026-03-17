@@ -1,0 +1,83 @@
+{
+    "flamengo": {
+        "nome": "Flamengo",
+        "estadio": "Maracanã",
+        "foto": ["flamengo.jpg"]
+    },
+    "palmeiras": {
+        "nome": "Palmeiras",
+        "estadio": "Allianz Parque",
+        "foto": ["palmeiras.jpg"]
+    },
+    "corinthians": {
+        "nome": "Corinthians",
+        "estadio": "Neo Química Arena",
+        "foto": ["corinthians.jpg"]
+    },
+    "sao-paulo": {
+        "nome": "São Paulo",
+        "estadio": "Morumbi",
+        "foto": ["sao-paulo.jpg"]
+    },
+    "gremio": {
+        "nome": "Grêmio",
+        "estadio": "Arena do Grêmio",
+        "foto": ["gremio.jpg"]
+    },
+    "atletico-mg": {
+        "nome": "Atlético-MG",
+        "estadio": "Arena MRV",
+        "foto": ["atletico-mg.jpg"]
+    },
+
+    "vasco": {
+        "nome": "Vasco da Gama",
+        "estadio": "São Januário",
+        "foto": ["vasco.jpg"]
+    },
+    "fluminense": {
+        "nome": "Fluminense",
+        "estadio": "Maracanã",
+        "foto": ["fluminense.jpg"]
+    },
+    "botafogo": {
+        "nome": "Botafogo",
+        "estadio": "Nilton Santos",
+        "foto": ["botafogo.jpg"]
+    },
+    "internacional": {
+        "nome": "Internacional",
+        "estadio": "Beira-Rio",
+        "foto": ["internacional.jpg"]
+    },
+    "cruzeiro": {
+        "nome": "Cruzeiro",
+        "estadio": "Mineirão",
+        "foto": ["cruzeiro.jpg"]
+    },
+    "santos": {
+        "nome": "Santos",
+        "estadio": "Vila Belmiro",
+        "foto": ["santos.jpg"]
+    },
+    "bahia": {
+        "nome": "Bahia",
+        "estadio": "Arena Fonte Nova",
+        "foto": ["bahia.jpg"]
+    },
+    "fortaleza": {
+        "nome": "Fortaleza",
+        "estadio": "Arena Castelão",
+        "foto": ["fortaleza.jpg"]
+    },
+    "ceara": {
+        "nome": "Ceará",
+        "estadio": "Arena Castelão",
+        "foto": ["ceara.jpg"]
+    },
+    "athletico-pr": {
+        "nome": "Athletico-PR",
+        "estadio": "Arena da Baixada",
+        "foto": ["athletico-pr.jpg"]
+    }
+}
